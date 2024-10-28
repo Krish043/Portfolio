@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Khedut.com",
+    "desc": "A solution for stable market access. Here the farmers can connect with the businessmen and get maximum profit.",
+    "image": "khedut",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Khedut.com",
+      "code": "https://github.com/krish-gangajaliya/Khedut.com"
+    }
+  },
+  {
+    "name": "Techy Software",
+    "desc": "A MERN stack-based platform where users can review companies and their services, integrated with Google Photos.",
+    "image": "techy",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Techy_Software",
+      "code": "https://github.com/krish-gangajaliya/Techy_Software"
+    }
+  },
+  {
+    "name": "EDUcrest",
+    "desc": "A learning platform where users can choose courses, get video transcripts, and auto-generated quizzes using Speech-to-Text and Gemini API.",
+    "image": "educrest",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/EDUcrest",
+      "code": "https://github.com/krish-gangajaliya/EDUcrest"
+    }
+  },
+  {
+    "name": "SponsorSpace",
+    "desc": "A platform made with Next.js where fans can support developers by giving them funds.",
+    "image": "sponsorspace",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/SponsorSpace",
+      "code": "https://github.com/krish-gangajaliya/SponsorSpace"
+    }
+  },
+    {
+      "name": "SoundLux",
+      "desc": "A website for SoundLux, designed using Webflow, showcasing creative web design expertise.",
+      "image": "soundlux",
+      "category": "web-design",
+      "links": {
+        "view": "https://webflow.com/soundlux",
+        "code": "https://webflow.com/soundlux"
+      }
+    },
+    {
+      "name": "Flavour fusion",
+      "desc": "A MERN-based restaurant website with a focus on user authentication and attractive UI design.",
+      "image": "rest",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/krish-gangajaliya/Restaurant_Website",
+        "code": "https://github.com/krish-gangajaliya/Restaurant_Website"
+      }
+    },
+    {
+      "name": "Sansthaein Aur Samvidhan",
+      "desc": "A gamified platform to spread constitutional literacy, structured to educate users on constitutional institutions.",
+      "image": "sansthaeinaursamvidhan",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/krish-gangajaliya/Sansthaein_Aur_Samvidhan",
+        "code": "https://github.com/krish-gangajaliya/Sansthaein_Aur_Samvidhan"
+      }
+    },
+    {
+    "name": "Mercedes S-class (Web Design)",
+    "desc": "A website designed using Wix Studios, showcasing Mercedes cars and highlighting web design skills.",
+    "image": "mercedes",
+    "category": "web-design",
+    "links": {
+      "view": "https://krish-gangajaliya.wixsite.com/mercedes",
+      "code": "https://krish-gangajaliya.wixsite.com/mercedes"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "A simple clone of Spotify made using HTML, CSS, and JavaScript, featuring a music player interface.",
+    "image": "spotify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Spotify_Clone",
+      "code": "https://github.com/krish-gangajaliya/Spotify_Clone"
+    }
+  },
+  {
+    "name": "Travel with Krish",
+    "desc": "A travel-themed website created with HTML, CSS, and JavaScript to provide travel insights and destination guides.",
+    "image": "travel",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Travel_with_Krish",
+      "code": "https://github.com/krish-gangajaliya/Travel_with_Krish"
+    }
+  },
+  {
+    "name": "StudySync",
+    "desc": "An educational website built using HTML, CSS, and JavaScript, offering resources for students.",
+    "image": "studysync",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/StudySync",
+      "code": "https://github.com/krish-gangajaliya/StudySync"
+    }
+  },
+  {
+    "name": "Memory Game",
+    "desc": "A simple memory game made using HTML, CSS, and JavaScript to test users' memory skills.",
+    "image": "memory",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Memory_Game",
+      "code": "https://github.com/krish-gangajaliya/Memory_Game"
+    }
+  },
+  {
+    "name": "Producer-Consumer Simulator",
+    "desc": "A visual simulator for the Producer-Consumer problem, demonstrating synchronization between producer and consumer threads with buffer management.",
+    "image": "producerconsumer",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/krish-gangajaliya/Producer_Consumer_Simulator",
+      "code": "https://github.com/krish-gangajaliya/Producer_Consumer_Simulator"
+    }
+  }
+
+]
